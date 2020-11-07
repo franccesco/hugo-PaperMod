@@ -81,6 +81,7 @@
 .post-content ol,
 .post-content dl {
     margin-bottom: var(--content-gap);
+    text-align: justify;
 }
 
 .post-content ul,
@@ -188,7 +189,7 @@
 .post-content code {
     margin: auto 4px;
     padding: 4px 6px;
-    font-family: Menlo, Monaco, 'Courier New', Courier, monospace;
+    font-family: 'Fira Code', Menlo, Monaco, 'Courier New', Courier, monospace;
     font-size: 0.78em;
     line-height: 1.5;
     background: var(--code-bg);
@@ -209,6 +210,7 @@
     margin: 0 calc(var(--gap) * -1);
     padding: 0 32px;
     border-inline-start: 2px solid var(--primary);
+    font-style: italic;
 }
 
 .post-content hr {
