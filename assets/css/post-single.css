@@ -127,7 +127,7 @@
 .post-content table:not(.highlighttable) td {
     font-size: 0.78em;
     padding: 12px 8px;
-    line-height: 0.5;
+    line-height: 1.0;
     border-bottom: 1px solid var(--border);
 }
 
