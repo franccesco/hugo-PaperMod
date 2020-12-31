@@ -80,6 +80,7 @@
 .post-content ul,
 .post-content ol,
 .post-content dl {
+    font-size: 0.90em;
     margin-bottom: var(--content-gap);
     text-align: justify;
 }
